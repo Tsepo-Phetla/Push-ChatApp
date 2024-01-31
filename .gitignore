@@ -1,8 +1,10 @@
 /api/node_modules
 /api/dist
-/api/DockerFile
+//api/DockerFile
 
 /frontend/node_modules
 /frontend/.vscode
-/frontend/DockerFile
-/frontend/angular.json
+//frontend/DockerFile
+//frontend/angular.json
+
+//docker-compose.yml

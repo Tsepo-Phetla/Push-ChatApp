@@ -6,5 +6,3 @@
 /frontend/.vscode
 /frontend/DockerFile
 /frontend/angular.json
-
-docker-compose.yml
